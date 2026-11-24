@@ -15,5 +15,6 @@ pagina = st.navigation([
     st.Page("src/atv2.py", title="Atividade 2 — Bandeira"),
     st.Page("src/atv3.py", title="Atividade 3 — Padrão"),
     st.Page("src/atv4.py", title="Atividade 4 — RGB"),
+    st.Page("src/atv5.py", title="Atividade 5 — HSV e recorte"),
 ])
 pagina.run()
