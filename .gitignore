@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Arquivos locais do trabalho (não vão pro GitHub)
+trabalho.pdf
+prints/
